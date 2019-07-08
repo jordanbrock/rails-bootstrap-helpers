@@ -514,7 +514,7 @@ Block and options.
 
 ## Tests
 
-Run the tests using RSpec
+Run the tests using RSpecs
 
 	$ bundle install
 	$ bundle exec rspec
